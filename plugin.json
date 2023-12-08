@@ -11,8 +11,9 @@
     "vendor.js"
   ],
   "author": {
-    "name": "Ajit Kumar",
-    "email": "me@ajitkumar.dev",
-    "github": "deadlyjack"
+    "price":"8€",
+    "name": "Fousseyni DIALLO",
+    "email": "tysoncoding2@gmail.com",
+    "github": "TysonCoding"
   }
 }
